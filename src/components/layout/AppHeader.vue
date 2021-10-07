@@ -79,10 +79,10 @@
             Catégories
           </button>
           <div class="bottombar__dropdown-content">
-            <a href="/categorie/6">Accessoires</a>
-            <a href="/categorie/4">Jouets</a>
-            <a href="/categorie/5">Meubles</a>
-            <a href="/categorie/7">Vêtements</a>
+            <a href="/categorie/2">Accessoires</a>
+            <a href="/categorie/3">Jouets</a>
+            <a href="/categorie/4">Meubles</a>
+            <a href="/categorie/5">Vêtements</a>
           </div>
         </div>
         <span>|</span>
@@ -107,7 +107,7 @@
           <li><a href="/blog">Derniers articles</a></li>
           <li>|</li>
           <li>
-            <a href="/page/247">Comment ça marche ?</a>
+            <a href="/page/2">Comment ça marche ?</a>
           </li>
         </ul>
       </nav>
