@@ -24,13 +24,13 @@
         <nav>
           <ul class="footer__menu-content">
             <li>
-              <a href="/page/252">Mentions légales</a>
+              <a href="/page/51">Mentions légales</a>
             </li>
             <li class="footer__separator">|</li>
-            <li><a href="/page/254">FAQ</a></li>
+            <li><a href="/page/48">FAQ</a></li>
             <li class="footer__separator">|</li>
             <li>
-              <a href="/page/256">Qui sommes-nous ?</a>
+              <a href="/page/53">Qui sommes-nous ?</a>
             </li>
           </ul>
         </nav>
