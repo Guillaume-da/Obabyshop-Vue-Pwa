@@ -154,13 +154,13 @@ export default {
             response.data._embedded["wp:featuredmedia"][0].source_url;
         }
 
-        if (this.category == 4) {
+        if (this.category == 3) {
           this.categoryName = "Jouets";
-        } else if (this.category == 6) {
+        } else if (this.category == 2) {
           this.categoryName = "Accessoires";
-        } else if (this.category == 5) {
+        } else if (this.category == 4) {
           this.categoryName = "Meubles";
-        } else if (this.category == 7) {
+        } else if (this.category == 5) {
           this.categoryName = "Vêtements";
         }
       }

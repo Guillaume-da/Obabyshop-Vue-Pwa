@@ -9,7 +9,7 @@
       ></ProductItem>
     </div>
     <div class="home-categories__link-container">
-      <router-link :to="`/categorie/4`" class="home-categories__link"
+      <router-link :to="`/categorie/3`" class="home-categories__link"
         >Voir tous les jouets</router-link
       >
     </div>
@@ -29,7 +29,7 @@ export default {
     ProductItem,
   },
   mounted: function () {
-    ApiClient.get("/wp/v2/products?per_page=4&category=4").then((response) => {
+    ApiClient.get("/wp/v2/products?per_page=4&category=3").then((response) => {
       this.homeToyzProducts = response.data;
     });
   },

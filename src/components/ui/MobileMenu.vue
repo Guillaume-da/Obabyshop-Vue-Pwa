@@ -32,10 +32,10 @@
         <li>
           <a href="#">Catégories</a>
           <ul class="topbar__mobile-submenu">
-            <li><a href="/categorie/7">Vêtements</a></li>
-            <li><a href="/categorie/5">Meubles</a></li>
-            <li><a href="/categorie/4">Jouets</a></li>
-            <li><a href="/categorie/6">Accessoires</a></li>
+            <li><a href="/categorie/5">Vêtements</a></li>
+            <li><a href="/categorie/4">Meubles</a></li>
+            <li><a href="/categorie/3">Jouets</a></li>
+            <li><a href="/categorie/2">Accessoires</a></li>
           </ul>
         </li>
         <li>
